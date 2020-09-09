@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="744c027a-4413-44a6-9860-26d6655ffe93" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/dubbo-api/src/main/java/cn/van/dubbo/domain/UserDomain.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/cn/van/dubbo/domain/UserDomain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-api/src/main/java/cn/van/dubbo/service/DubboService.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-api/src/main/java/cn/van/dubbo/service/DubboService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-consumer/src/main/java/cn/van/dubbo/controller/DubboTestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-consumer/src/main/java/cn/van/dubbo/controller/DubboTestController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dubbo-provider/src/main/java/cn/van/dubbo/service/impl/DubboServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/dubbo-provider/src/main/java/cn/van/dubbo/service/impl/DubboServiceImpl.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="/usr/local/apache-maven-3.6.3/repository" />
+        <option name="mavenHome" value="/usr/local/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="/usr/local/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1hGh89ZRrsqno9eIClSRCPS3WyF" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="744c027a-4413-44a6-9860-26d6655ffe93" name="Default Changelist" comment="" />
+      <created>1599643173580</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1599643173580</updated>
+      <workItem from="1599643176093" duration="570000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="764" y="300" width="673" height="640" key="find.popup" timestamp="1599643484798">
+      <screen x="0" y="0" width="1680" height="1050" />
+    </state>
+    <state x="764" y="300" width="673" height="640" key="find.popup/0.0.1680.1050@0.0.1680.1050" timestamp="1599643484798" />
+  </component>
+</project>

@@ -1,0 +1,8 @@
+# dubbo 相关配置
+dubbo:
+  application:
+    name: provider
+  registry:
+    address: 127.0.0.1:2181
+  protocol:
+    port: 20880
